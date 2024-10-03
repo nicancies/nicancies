@@ -1,1 +1,1 @@
-Hi, I am interested in NLP, machine learning and neural networks for public policymaking, monitoring and evaluation, causal inference, and recommenders.
+Hello! I am interested in NLP, machine learning, causal inference, and recommender systems for evidence-based public policymaking enhancement.
